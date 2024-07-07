@@ -1,3 +1,6 @@
+In this app I have made a landing page using NextJS. I have used ContextAPI to handle the multilevel state management. I have used TailwindCSS and ShadCN components for making a responsive and interactive UI.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
